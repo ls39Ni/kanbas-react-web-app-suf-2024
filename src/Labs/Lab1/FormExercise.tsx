@@ -39,6 +39,8 @@ export default function FormExercise() {
         >
           Hello World!
         </button>
+        <h5>File upload</h5>
+        <input id="wd-upload" type="file" />
         <h5 id="wd-radio-buttons">Radio buttons</h5>
         <label>Favorite movie genre:</label>
         <br />
@@ -116,7 +118,7 @@ export default function FormExercise() {
           placeholder="1000"
           min="50000"
           max="1000000"
-          //   value="100000"
+          value="100000"
         />
         <br />
         <label htmlFor="wd-text-fields-rating">Rating: </label>
@@ -125,7 +127,7 @@ export default function FormExercise() {
           id="wd-text-fields-rating"
           placeholder="Doe"
           max="5"
-          //   value="4"
+          value="4"
         />
         <br />
         <label htmlFor="wd-text-fields-email">Email: </label>

@@ -37,6 +37,55 @@ export default function TableExercise() {
             <td>4/3/21</td>
             <td>95</td>
           </tr>
+          <tr>
+            {/* table row */}
+            <td>Q4</td> {/* table data / cell */}
+            <td>CSS</td>
+            <td>4/10/21</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            {/* table row */}
+            <td>Q5</td> {/* table data / cell */}
+            <td>JavaScript</td>
+            <td>4/17/21</td>
+            <td>88</td>
+          </tr>
+          <tr>
+            {/* table row */}
+            <td>Q6</td> {/* table data / cell */}
+            <td>HTML</td>
+            <td>4/24/21</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            {/* table row */}
+            <td>Q7</td> {/* table data / cell */}
+            <td>JavaScript</td>
+            <td>5/1/21</td>
+            <td>92</td>
+          </tr>
+          <tr>
+            {/* table row */}
+            <td>Q8</td> {/* table data / cell */}
+            <td>CSS</td>
+            <td>5/8/21</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            {/* table row */}
+            <td>Q9</td> {/* table data / cell */}
+            <td>JavaScript</td>
+            <td>5/15/21</td>
+            <td>91</td>
+          </tr>
+          <tr>
+            {/* table row */}
+            <td>Q10</td> {/* table data / cell */}
+            <td>HTML</td>
+            <td>5/23/21</td>
+            <td>90</td>
+          </tr>
         </tbody>
         <tfoot>
           {/* table row */}

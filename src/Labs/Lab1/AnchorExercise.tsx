@@ -1,10 +1,20 @@
 export default function AnchorExercise() {
   return (
     <div id="wd-anchors">
-      <h3>Anchor Tags</h3>
-      <a href="https://wikipedia.org">Wikipedia</a>
+      <h4>Anchor Tags</h4>
+      <a id="wd-lipsum" href="https://www.lipsum.com">
+        click here
+      </a>
+      to get dummy text
       <br />
-      <a href="https://github.com/jannunzi">GitHub</a>
+      <a
+        id="wd-github"
+        href="https://github.com/ls39Ni/kanbas-react-web-app-suf-2024"
+      >
+        click here
+      </a>
+      to get my github repository
+      <br />
     </div>
   );
 }
